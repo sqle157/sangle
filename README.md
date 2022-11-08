@@ -13,7 +13,7 @@ To me, Frontend Web Development has always been a really interesting field, and 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [sqle98@gmail.com](mailto:sqle98@gmail.com)
 * 🧠  I'm learning ReactJS, Typescript & Styled Components
-* 🤝  I'm open to collaborating on any available opportunity
+* 🤝  I'm open to any available opportunity
 
 ### Skills
 
