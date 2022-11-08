@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Frontend Web Developer
 -----------------------------
 
-I've been learning to code since I enrolled in my University of Alberta, and after trying out different aspects of programming, I've found my passion in Frontend Web Development. I've been stuyding Frontend Web Development for quite a while now, and I've gained some experiences regarding the roles in my previous works/internship. To me, Frontend Web Development has always been a really interesting field, and it always piques my interest when it comes to Frontend Web Development subject or just Web Development in general.
+I've been learning to code since I enrolled in my University of Alberta, and after trying out different aspects of programming, I've found my passion in Frontend Web Development. 
+
+I've been stuyding Frontend Web Development for quite a while now, and I've gained some experiences regarding the roles in my previous works/internship. 
+
+To me, Frontend Web Development has always been a really interesting field, and it always piques my interest when it comes to Frontend Web Development subject or just Web Development in general.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [sqle98@gmail.com](mailto:sqle98@gmail.com)
