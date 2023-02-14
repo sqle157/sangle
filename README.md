@@ -11,7 +11,7 @@ I've been stuyding Frontend Web Development for quite a while now, and I've gain
 To me, Frontend Web Development has always been a really interesting field, and it always piques my interest when it comes to Frontend Web Development subject or just Web Development in general.
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me at [sqle98@gmail.com](mailto:sqle98@gmail.com)
+* ✉️  You can contact me at [sqle157@gmail.com](mailto:sqle157@gmail.com)
 * 🧠  I'm learning ReactJS, Typescript & Styled Components
 * 🤝  I'm open to any available opportunity
 
